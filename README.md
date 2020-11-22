@@ -8,6 +8,9 @@
 
 >### A multiple pages app built for OnlineJudge. [Demo](https://qduoj.com)
 
+## 한글화 진행중
++ For Unitsoft
+
 ## Features
 
 + Webpack3 multiple pages with bundle size optimization
